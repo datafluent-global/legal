@@ -7,7 +7,6 @@
 **Website:** https://datafluent.global
 
 **Product:** AI Enablement OS™
-**License Terms URL:** https://datafluent.global/ai-enablement-os/license
 **Agreement Version:** 1.0
 **Effective Date:** 2026-05-22
 
